@@ -1,2 +1,2 @@
-# 91-SOCIAL-go-digital
+# 91 SOCIAL go digital
 Python Assignment
